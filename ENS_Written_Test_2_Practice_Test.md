@@ -14,7 +14,11 @@
 - C) 100
 - D) 110
 
-**Answer: D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: D) 110**
+
+</details>
 
 ---
 
@@ -24,7 +28,11 @@
 - C) LSU
 - D) DBD
 
-**Answer: B**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: B) Hello**
+
+</details>
 
 ---
 
@@ -34,7 +42,11 @@
 - C) GRE
 - D) ESP
 
-**Answer: D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: D) ESP**
+
+</details>
 
 ---
 
@@ -44,7 +56,11 @@
 - C) 255.255.0.0
 - D) 255.255.255.0
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) 0.0.255.255**
+
+</details>
 
 ---
 
@@ -54,7 +70,11 @@
 - C) Web application firewall
 - D) Stateful packet inspection firewall
 
-**Answer: D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: D) Stateful packet inspection firewall**
+
+</details>
 
 ---
 
@@ -64,7 +84,11 @@
 - C) It increases forwarding delays
 - D) It provides address multiplexing
 
-**Answer: C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C) It increases forwarding delays**
+
+</details>
 
 ---
 
@@ -74,7 +98,11 @@
 - C) Bluesnarfing
 - D) Bluejacking
 
-**Answer: C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C) Bluesnarfing**
+
+</details>
 
 ---
 
@@ -84,7 +112,11 @@
 - C) True Negative
 - D) False Positive
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) False Negative**
+
+</details>
 
 ---
 
@@ -94,7 +126,11 @@
 - C) `ip ospf authentication`
 - D) `service password-encryption`
 
-**Answer: B**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: B) `ip ospf authentication message-digest`**
+
+</details>
 
 ---
 
@@ -104,7 +140,11 @@
 - C) IKE Phase 2
 - D) IKE Phase 3
 
-**Answer: C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C) IKE Phase 2**
+
+</details>
 
 ---
 
@@ -114,7 +154,11 @@
 - C) 1000–1099
 - D) 200–299
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) 100–199**
+
+</details>
 
 ---
 
@@ -124,7 +168,11 @@
 - C) The RST flag is set
 - D) The FIN flag is set
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) The ACK flag is set**
+
+</details>
 
 ---
 
@@ -134,7 +182,11 @@
 - C) Proxy NAT
 - D) Static NAT
 
-**Answer: B**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: B) PAT (NAT Overload)**
+
+</details>
 
 ---
 
@@ -144,7 +196,11 @@
 - C) WPA3
 - D) WPA
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) WPA2**
+
+</details>
 
 ---
 
@@ -154,7 +210,11 @@
 - C) To securely exchange cryptographic keys
 - D) To encrypt data traffic
 
-**Answer: C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C) To securely exchange cryptographic keys**
+
+</details>
 
 ---
 
@@ -164,7 +224,11 @@
 - C) A device that performs NAT translations
 - D) A passive device that monitors copies of traffic and generates alerts
 
-**Answer: D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: D) A passive device that monitors copies of traffic and generates alerts**
+
+</details>
 
 ---
 
@@ -174,7 +238,11 @@
 - C) Simple password authentication
 - D) Null authentication
 
-**Answer: C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C) Simple password authentication**
+
+</details>
 
 ---
 
@@ -184,7 +252,11 @@
 - C) Trusted zone
 - D) Untrusted zone
 
-**Answer: A**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A) Quarantine zone**
+
+</details>
 
 ---
 
@@ -194,7 +266,11 @@
 - C) Deletes the signature permanently
 - D) Removes the signature from the signature file
 
-**Answer: B**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: B) Stops the signature from being compiled into memory**
+
+</details>
 
 ---
 
@@ -204,7 +280,11 @@
 - C) 500
 - D) 50
 
-**Answer: D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: D) 50**
+
+</details>
 
 ---
 
@@ -213,52 +293,102 @@
 **Instructions:** Write TRUE or FALSE for each statement.
 
 **Q21.** OSPF is a classful routing protocol.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — OSPF is classless (sends subnet mask info).
+
+</details>
 
 ---
 
 **Q22.** Standard ACLs should be placed closest to the source of traffic.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — Standard ACLs should be placed closest to the destination.
+
+</details>
 
 ---
 
 **Q23.** The implicit "deny any" at the end of every ACL is visible in the configuration.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — It is invisible/implicit but always present.
+
+</details>
 
 ---
 
 **Q24.** ESP operates on IP protocol number 50.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: TRUE**
+
+</details>
 
 ---
 
 **Q25.** PAT uses source port numbers to distinguish between sessions from different internal hosts.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: TRUE**
+
+</details>
 
 ---
 
 **Q26.** An IPS sensor in promiscuous mode can stop attacks before they reach the target.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — Promiscuous mode is IDS (passive, alerts only). IPS inline mode can stop attacks.
+
+</details>
 
 ---
 
 **Q27.** WEP uses the RC4 encryption algorithm.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: TRUE**
+
+</details>
 
 ---
 
 **Q28.** OSPF MD5 authentication encrypts the actual data traffic between routers.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — OSPF authentication only authenticates routing updates, it does NOT encrypt data traffic.
+
+</details>
 
 ---
 
 **Q29.** A composite IPS signature requires state information and can span multiple packets.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: TRUE**
+
+</details>
 
 ---
 
 **Q30.** The `service password-encryption` command encrypts OSPF routing updates.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: FALSE** — It only encrypts passwords displayed in the running configuration file.
+
+</details>
 
 ---
 
@@ -273,7 +403,11 @@
 - D) Network type
 - E) Router ID
 
-**Answer: A, C, D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A, C, D** — Hello interval, Dead interval, and Network type must match. Process ID is locally significant only, and Router IDs must be unique (not matching).
+
+</details>
 
 ---
 
@@ -284,7 +418,11 @@
 - D) NAT translation
 - E) DHCP
 
-**Answer: A, C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A, C** — ESP provides confidentiality (encryption) plus authentication and integrity.
+
+</details>
 
 ---
 
@@ -295,7 +433,11 @@
 - D) Cannot inspect encrypted traffic
 - E) No integration with IPS
 
-**Answer: A, C**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A, C** — NGFWs have application awareness (L2–L7) and identity awareness (integrates with AD/LDAP).
+
+</details>
 
 ---
 
@@ -306,7 +448,11 @@
 - D) `ip ips notify sdee`
 - E) `ip sdee events 500`
 
-**Answer: C, D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: C, D** — `ip http server` must be enabled first (SDEE works over HTTP), then `ip ips notify sdee` enables SDEE notification.
+
+</details>
 
 ---
 
@@ -317,7 +463,11 @@
 - D) 192.168.0.0 – 192.168.255.255
 - E) 169.254.0.0 – 169.254.255.255
 
-**Answer: A, C, D**
+<details><summary>Click to reveal answer</summary>
+
+**Answer: A, C, D** — Class A: 10.0.0.0/8, Class B: 172.16.0.0/12, Class C: 192.168.0.0/16. (169.254.x.x is APIPA/link-local, not RFC 1918 private.)
+
+</details>
 
 ---
 
@@ -333,7 +483,11 @@
 | 4 | LSU | ___ | D) Abbreviated list of link-state database |
 | 5 | LSAck | ___ | E) Carries link-state information |
 
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 1-C, 2-D, 3-B, 4-E, 5-A**
+
+</details>
 
 ---
 
@@ -346,7 +500,11 @@
 | 3 | True Negative | ___ | C) Alarm generated for attack traffic |
 | 4 | False Negative | ___ | D) No alarm generated for normal user traffic |
 
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 1-C, 2-A, 3-D, 4-B**
+
+</details>
 
 ---
 
@@ -359,7 +517,11 @@
 | 3 | Bluejacking | ___ | C) Unauthorized AP installed on a secure network |
 | 4 | Bluesnarfing | ___ | D) Stealing data from a Bluetooth device |
 
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 1-B, 2-C, 3-A, 4-D**
+
+</details>
 
 ---
 
@@ -371,7 +533,11 @@
 | 2 | Stateful Inspection | ___ | B) Layer 3 (sometimes 4) |
 | 3 | Application Firewall | ___ | C) Layers 3–4 |
 
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 1-B, 2-C, 3-A**
+
+</details>
 
 ---
 
@@ -384,65 +550,121 @@
 | 3 | Outside Global | ___ | C) Address of source as seen from inside (private) |
 | 4 | Outside Local | ___ | D) Address of destination as seen from inside |
 
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 1-C, 2-A, 3-B, 4-D**
+
+</details>
 
 ---
 
 # SECTION E: Fill in the Blanks
 
 **Q41.** OSPF uses a default Administrative Distance of _______.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 110**
+
+</details>
 
 ---
 
 **Q42.** The three parameters that must match for OSPF neighbours are: _______, _______, and _______.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: Hello interval, Dead interval, Network type**
+
+</details>
 
 ---
 
 **Q43.** An ACL is a sequential series of _______ that tell the router what packets to accept or _______.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: filters/statements, deny/drop**
+
+</details>
 
 ---
 
 **Q44.** The IPsec protocol that provides authentication and integrity but NOT encryption is called _______.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: AH (Authentication Header)**
+
+</details>
 
 ---
 
 **Q45.** The process of translating multiple private IP addresses to a single public IP using port numbers is called _______ or _______.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: PAT (Port Address Translation), NAT Overload**
+
+</details>
 
 ---
 
 **Q46.** WEP's Initialization Vector (IV) is only _______ bits long, which creates approximately _______ possible values.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: 24, 16 million (2^24)**
+
+</details>
 
 ---
 
 **Q47.** An IPS signature that consists of a single packet and requires no state information is called an _______ signature.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: Atomic**
+
+</details>
 
 ---
 
 **Q48.** The command _______ is used to apply a standard ACL to an interface, while _______ is used to restrict VTY access.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: ip access-group, access-class**
+
+</details>
 
 ---
 
 **Q49.** In IKE, Phase 1 authenticates peers and establishes a secure channel, while Phase 2 negotiates _______ parameters.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: IPsec SA (Security Association)**
+
+</details>
 
 ---
 
 **Q50.** A _______ positive alarm occurs when the IPS generates an alarm for normal user traffic that should not have triggered an alarm.
+
+<details><summary>Click to reveal answer</summary>
+
 **Answer: False**
+
+</details>
 
 ---
 
 # SECTION F: Open-Ended Questions
 
 **Q51.** Explain the difference between Standard ACLs and Extended ACLs. Include number ranges, what they can filter on, and recommended placement.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 Standard ACLs (numbered 1–99) can only filter on the **source IP address**. They should be placed **closest to the destination** because they can't distinguish between different destinations — placing them near the source would block all traffic from that host.
@@ -451,9 +673,13 @@ Extended ACLs (numbered 100–199) can filter on **source IP, destination IP, pr
 
 Both types have an implicit "deny any" at the end and must be applied to an interface using `ip access-group`.
 
+</details>
+
 ---
 
 **Q52.** Describe the three types of NAT (Static, Dynamic, PAT). For each, explain how it works, when you would use it, and give an example.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 
@@ -463,9 +689,13 @@ Both types have an implicit "deny any" at the end and must be applied to an inte
 
 **PAT (NAT Overload):** Many-to-one mapping where multiple private IPs share a single public IP. Uses port numbers to distinguish between sessions. Use in most networks where you have many internal hosts but limited public IPs. Example: 10 hosts all share 209.165.200.226 using different source port numbers.
 
+</details>
+
 ---
 
 **Q53.** Compare IDS and IPS. Explain how each works, where each is placed, and the advantages and disadvantages of each.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 
@@ -483,9 +713,13 @@ Both types have an implicit "deny any" at the end and must be applied to an inte
 
 Both use signatures to detect threats, but only IPS can actively block them.
 
+</details>
+
 ---
 
 **Q54.** List and explain the 5 steps of IPsec VPN configuration.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 
@@ -499,9 +733,13 @@ Both use signatures to detect threats, but only IPS can actively block them.
 
 5. **Tunnel Termination** — SAs are deleted or time out. The tunnel is torn down. New interesting traffic would restart the process.
 
+</details>
+
 ---
 
 **Q55.** What are the four types of IPS signature triggers? Describe each with an example.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 
@@ -513,9 +751,13 @@ Both use signatures to detect threats, but only IPS can actively block them.
 
 4. **Reputation-based:** Tracks reputation scores of Internet domains/IPs. Example: Blocking traffic from an IP that has sent 10M emails in 24 hours from a domain less than 24 hours old. Dynamic and effective but reputation data constantly changes.
 
+</details>
+
 ---
 
 **Q56.** Explain OSPF MD5 authentication: what it does, how to configure it, and what can go wrong.
+
+<details><summary>Click to reveal model answer</summary>
 
 **Model Answer:**
 
@@ -535,6 +777,8 @@ Router(config-router)# area 0 authentication message-digest
 - Missing authentication on one side (one router has it, other doesn't)
 
 **Important:** OSPF authentication only authenticates routing updates — it does NOT encrypt actual data traffic.
+
+</details>
 
 ---
 
