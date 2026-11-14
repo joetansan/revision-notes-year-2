@@ -810,6 +810,7 @@ Benefits realization further ensures that **the realization of business benefits
 ## 4.10 ⭐ Benefit calculation techniques
 
 **Examples of benefit calculation techniques:**
+
 **Breakeven analysis · Cost-benefit analysis (CBA) · Payback period · Return on investment (ROI) · Service life cycle**
 
 ### ⭐ Financially-oriented CBA (quantifiable — preferred)
@@ -910,7 +911,9 @@ These four topics are one story. If you can recite this paragraph, you can answe
 **(a) [1] Define IT governance. (b) [3] Name and briefly explain the four pillars.**
 
 **Model answer**
+
 (a) IT governance is **the system by which the use of IT within an organisation is directed and controlled**, ensuring **alignment with business strategy, management of risk, and delivery of value**. *(1)*
+
 (b) *(¾ each)*
 1. **Strategic Management** — achieving **alignment between business and IT**, so IT goals trace back to stakeholder needs.
 2. **Benefits Realization** — ensuring IT-enabled investments **achieve the promised benefits and deliver business value**.
@@ -975,6 +978,7 @@ These four topics are one story. If you can recite this paragraph, you can answe
 ### SAQ 7 — The seven GEIT components, and why a holistic approach matters. (4 marks)
 
 **Model answer**
+
 The seven COBIT components *(worth 3 of the 4 marks — award 3 for all seven, 2 for five or six)*:
 1. **Principles, policies and frameworks**
 2. **Processes**
@@ -1002,7 +1006,9 @@ Why holistic *(1)*: the components **interact with one another** to support a **
 **(a) [4] Describe the four steps. (b) [1] Why is the two-way relationship valuable?**
 
 **Model answer**
+
 (a)
+
 - **Step 1 — Stakeholder drivers influence stakeholder needs.** Drivers include **strategy changes, changing business and regulatory environments, and new technologies**. *(1)*
 - **Step 2 — Stakeholder needs cascade to enterprise goals.** Needs are related to a set of **generic enterprise goals**. *(1)*
 - **Step 3 — Enterprise goals cascade to alignment goals.** COBIT defines **various alignment goals for each enterprise goal**. *(1)*
@@ -1026,7 +1032,9 @@ Why holistic *(1)*: the components **interact with one another** to support a **
 **(a) [4] Name the five phases in order and describe each. (b) [1] Why must a program be seen through its full life cycle?**
 
 **Model answer**
+
 (a)
+
 1. **Investment** — **developing** the necessary capabilities. *(¾)*
 2. **Adoption** — **implementing** the capabilities. *(¾)*
 3. **Value creation** — **achieving the expected level of performance** and **moving the delivered capabilities into the active service portfolio**. *(1)*
@@ -1041,7 +1049,9 @@ Why holistic *(1)*: the components **interact with one another** to support a **
 **(a) [2] Distinguish the two. (b) [2] A hospital invests in a new patient-records portal. Patient satisfaction rises but revenue and cost are unchanged. Classify the benefit and explain what benefits realization must do next.**
 
 **Model answer**
+
 (a) **Business benefits CREATE VALUE by increasing the company's profits.** **Intermediate benefits do NOT directly create value**, although they **benefit one or more groups of stakeholders** (e.g. improved customer service that does not increase profits). *(2)*
+
 (b) The satisfaction rise is an **intermediate benefit** — real, stakeholder-facing, but **not yet profit** *(1)*. Benefits realization must ensure **intermediate benefits are made to CONTRIBUTE TO business benefits** — e.g. by using the portal to **reduce re-admission rates or administrative cost**, and it must confirm the return is **sufficient to merit the resources expended** *(1)*.
 
 ---

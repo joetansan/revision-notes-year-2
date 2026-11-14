@@ -17,10 +17,10 @@
 
 **Q1. [Topic 1]** Which of the following best defines IT governance?
 
-A. A set of cybersecurity controls used to protect company data
-B. The system by which the use of IT within an organisation is directed and controlled
-C. The process of procuring and installing IT hardware and software
-D. The department responsible for resolving technical incidents in an organisation
+A. A set of cybersecurity controls used to protect company data  
+B. The system by which the use of IT within an organisation is directed and controlled  
+C. The process of procuring and installing IT hardware and software  
+D. The department responsible for resolving technical incidents in an organisation  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -31,10 +31,10 @@ This is the slide definition. IT governance is about **direction and control** o
 
 **Q2. [Topic 1]** Which of the following is NOT one of the four pillars of IT governance?
 
-A. Strategic Management
-B. Software Development
-C. Benefits Realization
-D. Resource Optimization
+A. Strategic Management  
+B. Software Development  
+C. Benefits Realization  
+D. Resource Optimization  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -45,10 +45,10 @@ The four pillars are **Strategic Management, Benefits Realization, Risk Optimiza
 
 **Q3. [Topic 1]** Singapore's Code of Corporate Governance is published by:
 
-A. The Infocomm Media Development Authority (IMDA)
-B. The Ministry of Digital Development and Information (MDDI)
-C. The Monetary Authority of Singapore (MAS)
-D. The Singapore Exchange (SGX)
+A. The Infocomm Media Development Authority (IMDA)  
+B. The Ministry of Digital Development and Information (MDDI)  
+C. The Monetary Authority of Singapore (MAS)  
+D. The Singapore Exchange (SGX)  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -59,10 +59,10 @@ The slide is explicit: the Code is **published by MAS** and outlines rules and g
 
 **Q4. [Topic 1]** An AI system's decision-making process cannot be explained, even by the developers who built it. Which Responsible AI principle is most directly engaged?
 
-A. Safety & Reliability
-B. Transparency
-C. Human Oversight
-D. Fairness
+A. Safety & Reliability  
+B. Transparency  
+C. Human Oversight  
+D. Fairness  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -73,10 +73,10 @@ D. Fairness
 
 **Q5. [Topic 1]** The three pillars of sustainability are:
 
-A. Environmental, ethical and financial
-B. Environmental, social and governance
-C. Economic, technical and regulatory
-D. Environmental, social and economic
+A. Environmental, ethical and financial  
+B. Environmental, social and governance  
+C. Economic, technical and regulatory  
+D. Environmental, social and economic  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -87,10 +87,10 @@ The three pillars of sustainability are **Environmental, Social and Economic**. 
 
 **Q6. [Topic 2]** Which of the following is NOT one of the six key assets that enterprise governance must govern (Weill & Ross, 2004)?
 
-A. IP assets
-B. Relationship assets
-C. Human assets
-D. Reputational assets
+A. IP assets  
+B. Relationship assets  
+C. Human assets  
+D. Reputational assets  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -101,10 +101,10 @@ The six key assets are **human, financial, physical, IP, information & IT, and r
 
 **Q7. [Topic 2]** ISO 38500 is specifically a standard for:
 
-A. Governance of IT within organisations
-B. Quality management systems
-C. IT service management
-D. Information security management
+A. Governance of IT within organisations  
+B. Quality management systems  
+C. IT service management  
+D. Information security management  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -115,10 +115,10 @@ D. Information security management
 
 **Q8. [Topic 2]** Which of the following is a TRIGGER EVENT (rather than a pain point) for a GEIT initiative?
 
-A. Outsourcing service levels not being met
-B. Insufficient IT resources and staff with inadequate skills
-C. New regulatory or compliance requirements
-D. Hidden IT spending
+A. Outsourcing service levels not being met  
+B. Insufficient IT resources and staff with inadequate skills  
+C. New regulatory or compliance requirements  
+D. Hidden IT spending  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -129,10 +129,10 @@ A **trigger event** is an internal or external *event* — merger/acquisition, n
 
 **Q9. [Topic 3]** In COBIT's Goals Cascade, what initiates the cascade?
 
-A. Stakeholder drivers that influence stakeholder needs
-B. IT department budget requests
-C. Regulatory compliance requirements
-D. Enterprise goals defined by the board
+A. Stakeholder drivers that influence stakeholder needs  
+B. IT department budget requests  
+C. Regulatory compliance requirements  
+D. Enterprise goals defined by the board  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -143,10 +143,10 @@ D. Enterprise goals defined by the board
 
 **Q10. [Topic 3]** Which barrier to strategic alignment describes the inability of senior management to communicate business strategy to operational management?
 
-A. The conformance barrier
-B. The implementation barrier
-C. The specification barrier
-D. The expression barrier
+A. The conformance barrier  
+B. The implementation barrier  
+C. The specification barrier  
+D. The expression barrier  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -157,10 +157,10 @@ D. The expression barrier
 
 **Q11. [Topic 3]** Which of the following best describes Agility Loop 1?
 
-A. Improving existing IT processes through automation
-B. Monitoring the environment and making responsive decisions
-C. Standardising the IT portfolio across all business units
-D. Creating entirely new business processes and retiring obsolete ones
+A. Improving existing IT processes through automation  
+B. Monitoring the environment and making responsive decisions  
+C. Standardising the IT portfolio across all business units  
+D. Creating entirely new business processes and retiring obsolete ones  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -171,10 +171,10 @@ D. Creating entirely new business processes and retiring obsolete ones
 
 **Q12. [Topic 4]** What is the key distinction between business benefits and intermediate benefits?
 
-A. Business benefits are short-term; intermediate benefits are long-term
-B. Business benefits apply to IT; intermediate benefits apply to the business
-C. Business benefits create value by increasing company profits; intermediate benefits do not directly create value although they benefit one or more stakeholder groups
-D. Business benefits are always financial; intermediate benefits are always non-financial
+A. Business benefits are short-term; intermediate benefits are long-term  
+B. Business benefits apply to IT; intermediate benefits apply to the business  
+C. Business benefits create value by increasing company profits; intermediate benefits do not directly create value although they benefit one or more stakeholder groups  
+D. Business benefits are always financial; intermediate benefits are always non-financial  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -185,10 +185,10 @@ The defining test is **value creation (profit)**, not time horizon or financial 
 
 **Q13. [Topic 4]** During which phase of the full economic life cycle does an organisation achieve the expected level of performance and move the delivered capabilities into the active service portfolio?
 
-A. The adoption phase
-B. The investment phase
-C. The value creation phase
-D. The value sustainment phase
+A. The adoption phase  
+B. The investment phase  
+C. The value creation phase  
+D. The value sustainment phase  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -199,10 +199,10 @@ D. The value sustainment phase
 
 **Q14. [Topic 4]** In the context of portfolio management, a portfolio is best defined as:
 
-A. A collection of programs, projects and/or operations managed as a group to achieve strategic objectives
-B. A financial investment portfolio managed by the CFO
-C. A set of IT standards and policies governing project delivery
-D. A collection of IT assets owned by the IT department
+A. A collection of programs, projects and/or operations managed as a group to achieve strategic objectives  
+B. A financial investment portfolio managed by the CFO  
+C. A set of IT standards and policies governing project delivery  
+D. A collection of IT assets owned by the IT department  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -213,10 +213,10 @@ A portfolio is a collection of programs, projects and/or operations **managed as
 
 **Q15. [Topic 4]** At which capability maturity level (ISO 15504) is a process continuously improved to meet relevant current and projected business goals?
 
-A. Level 5 — Optimizing process
-B. Level 3 — Established process
-C. Level 2 — Managed process
-D. Level 4 — Predictable process
+A. Level 5 — Optimizing process  
+B. Level 3 — Established process  
+C. Level 2 — Managed process  
+D. Level 4 — Predictable process  
 
 <details>
 <summary><b>Answer (hidden - click to reveal)</b></summary>
@@ -340,8 +340,10 @@ cannot be the failure when adoption never happened.
 
 ## Marking Guide
 
-**Section A (15 marks):** 1 mark per MCQ, no negative marking. 
-**Section B (10 marks):** 
+**Section A (15 marks):** 1 mark per MCQ, no negative marking.
+
+**Section B (10 marks):**
+
 - **Q16 (4):** (a) 1 mark for the definition + 1 mark for all four pillars named correctly; (b) 1 mark conformance (structure/roles/remuneration) + 1 mark performance (strategy/value creation/risk appetite). 
 - **Q17 (3):** 1 mark per barrier — the mark requires both the correct name **and** a correct explanation. 
 - **Q18 (3):** (a) 2 marks for all five phases in the correct order (1 mark for three or four correct); (b) 1 mark for correctly identifying **adoption** and noting that delivery without active use means value creation never occurred. 
